@@ -278,7 +278,7 @@ border-radius: 5px;
 #customAlert {
 display: none;
 top: -8%;
-background: green;
+background: darkcyan;
 padding:84px;
 text-align: center;
 width: 43%;
@@ -317,7 +317,7 @@ left: 18px;
 }
 
 #alertMessage{
-background: green;
+background: darkcyan;
 left: 4px;
 position: relative;
 top: -44px;
@@ -327,7 +327,7 @@ font-size: 24px;
 
 #customAlert1 {
 top: -22%;
-background: green;
+background: darkcyan;
 padding: 141px;
 text-align: center;
 width: 43%;
@@ -343,7 +343,7 @@ border-radius: 69px;
 }
 
 #alertMessage1 {
-    background: green;
+    background: darkcyan;
     left: 0px;
     position: relative;
     top: 0px;
