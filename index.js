@@ -174,7 +174,7 @@ allBoxes.forEach((box, index) => {
 });
 boxlist.appendChild(allBoxes[i]);
 }
-  }
+}
 
 
 function updateLevel(pos) {
